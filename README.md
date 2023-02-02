@@ -1,15 +1,15 @@
 # Organizacion-de-Datos
-Materia Organizacion de datos
-Temario 
-Objetivos:
+
+## Temario 
+### Objetivos:
 
 Proporcionar los conceptos, las herramientas y la intuición necesaria para implementar programas capaces de aprender a partir de datos. Se explican una gran cantidad de técnicas, desde las más sencillas como regresión lineal hasta las más avanzadas como lo son las redes de aprendizaje profundo o el algoritmo XGBoost. Las herramientas utilizadas para lograr estos objetivos se encuentran entre las más utilizadas en la industria y que forman parte de la vanguardia tecnológica dentro de la ciencia de datos.
 
-Programa sintético:
+### Programa sintético:
 
 Utilización de herramientas de visualización de datos; ingeniería de características; funcionamiento de modelos tradicionales de aprendizaje automático: métodos de clasificación, regresión y agrupamiento. Redes neuronales artificiales: superficiales y profundas. Procesamiento de lenguaje natural. Procesamiento de imágenes.
 
-Programa analítico:
+### Programa analítico:
 
 Unidad 1 – Introducción a la Ciencia de datos: Conceptos básicos: conjuntos de datos, tipos de variables, tipos de problemas, tipos de modelos, valores atípicos.
 
