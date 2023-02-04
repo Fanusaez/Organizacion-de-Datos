@@ -1,4 +1,6 @@
-# Organizacion-de-Datos
+# Organizacion de Datos
+
+Repositorio de trabajos de la materia Organizacion de Datos, correspondiente a la cursada 2022 catedra Rodriguez.
 
 ## Temario 
 ### Objetivos:
