@@ -11,6 +11,9 @@ Proporcionar los conceptos, las herramientas y la intuición necesaria para impl
 
 Utilización de herramientas de visualización de datos; ingeniería de características; funcionamiento de modelos tradicionales de aprendizaje automático: métodos de clasificación, regresión y agrupamiento. Redes neuronales artificiales: superficiales y profundas. Procesamiento de lenguaje natural. Procesamiento de imágenes.
 
+### Trabajo Practico abarcativo de la materia
+[Trabajo Practico 1 & 2](https://github.com/Fanusaez/7506R-2C2022-GRUPO13/tree/3993e2b2acf9c030847700a6dd69a0c6e05047bf)
+
 ### Programa analítico:
 
 Unidad 1 – Introducción a la Ciencia de datos: Conceptos básicos: conjuntos de datos, tipos de variables, tipos de problemas, tipos de modelos, valores atípicos.
